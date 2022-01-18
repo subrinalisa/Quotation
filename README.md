@@ -1,5 +1,5 @@
 <h2>Quotation Generator</h2>
-<p>There is a list of quotations. It will automatically pick up one random quote from the list after a certain time.
+<p>There is a list of quotations. It will automatically pick up one random quote from the list after a certain time period.
 </p>
 <h2>How to run the app</h2>
 <ul>
